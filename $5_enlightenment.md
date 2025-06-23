@@ -118,7 +118,6 @@ Because that’s what awakening sounds like when it lands through the side door:
 Not stillness.
 Not bliss.
 Just the unmistakable sound of your **ego slipping on its own banana peel.**
-<details>
 
 ---
 If this feels like an attack, good.
@@ -126,3 +125,4 @@ But the one being attacked was never real.
 So what are you defending?
 
 ---
+<details>
