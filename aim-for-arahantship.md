@@ -23,7 +23,7 @@ It all depends on how ready you are to question your deepest assumptions and how
 
 Don’t romanticize the struggle.  
 Don’t mythologize the goal.  
-You’re already suffering—why stretch it over seven lifetimes?
+You’re already suffering—why stretch it over seven lifetimes (of which even those are speculative)?
 
 There is no self to liberate.  
 There is only **the end of pretending there is**.
