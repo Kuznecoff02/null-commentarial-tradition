@@ -17,11 +17,11 @@ They do not preserve the tradition. They **expose its structure**.
 
 | Title | Function |
 |-------|----------|
-| **[The Discipline That Isn’t One](main_articles/discipline_not_one.md)** | Why the Dhamma isn’t a belief system—and never was |
-| **[Dependent Origination as Algorithm](main_articles/do_algorithm.md)** | Suffering as runtime, cessation as program crash |
+| **[Samsara is Teleology](samsara/samsara_teleology_analysis.md)** | How teleology is the root of all craving, and is accurately represented as craving itself. |
+| **[Frame Levels](frame-levels)** | An alternative mapping of the Buddha's 4-stage model of enlightenment |
 | **[Stream Entry Without Belief](main_articles/stream_entry_beliefless.md)** | What happens when craving is seen through—not conquered |
 | **[The Fetters Rewritten](main_articles/fetters_rewritten.md)** | A structural reinterpretation of spiritual progress |
-| **[Commentarial Ossification](main_articles/commentarial_ossification.md)** | Why the tradition crystallized—and how to de-ossify it |
+| **[Why This Writing Can't be Faked](anti-legitimacy-claims)** | Haters will say it's fake. The fake ones will realize they are haters. There was never anything fake, nor any hater writing. |
 
 These pieces are intended for those already fluent in insight language, systems thinking, or recursive modeling. No doctrine, no worship, no performance.
 
