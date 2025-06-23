@@ -2,21 +2,21 @@
 
 <h1 align="center" style="color:red; font-size:3em;">📡 JREG Is More Enlightened Than You Are</h1>
 
-<p align="center"><em>Yes, the YouTuber. The satirist. The meme-lord. The stream-enterer?</em></p>
+<p align="center"><em>Yes, the YouTuber. The satirist. The meme‑lord. The stream‑enterer?</em></p>
 
 <hr>
 
-<h2>📺 <u>Confirmed Stream Entry</u></h2>
+<h2>📺 <u>Confirmed Stream‑Entry Behavior</u></h2>
 
 <ul>
-  <li><a href="https://www.youtube.com/watch?v=RUQZfUXuJzY" target="_blank">Centrism Is a Sin</a> — <code>Timestamp 6:32</code><br>
-    <blockquote style="margin-left:20px; color:#555;">"I do not believe anything, but I believe in the value of pretending to believe in everything."</blockquote>
+  <li><a href="https://www.youtube.com/watch?v=jhsUchBe3I0" target="_blank">Post‑Ironic Hyper‑Political Extremism</a> — <code>Timestamp ~15:15</code><br>
+    <blockquote style="margin-left:20px; color:#555;">“Explore ideology by role‑playing it to collapse it.”</blockquote>
   </li>
-  <li><a href="https://www.youtube.com/watch?v=l9R1_BFvGVg" target="_blank">How to Radicalize a Normie</a> — <code>Timestamp 3:15</code><br>
-    <blockquote style="margin-left:20px; color:#555;">"You need the illusion to see past the illusion."</blockquote>
+  <li><a href="https://www.youtube.com/watch?v=P55t6eryY3g" target="_blank">How to Radicalize a Normie</a> — <code>Timestamp ~3:15</code><br>
+    <blockquote style="margin-left:20px; color:#555;">“You need the illusion to see past the illusion.”</blockquote>
   </li>
-  <li><a href="https://www.youtube.com/playlist?list=PLVav0k7x-XgJfNHRiMBfjcwbi_VAYcmEE" target="_blank">The Centricide Saga (Playlist)</a><br>
-    <blockquote style="margin-left:20px; color:#777;">Roleplaying ideological craving until it collapses.</blockquote>
+  <li><a href="https://www.youtube.com/watch?v=J3irKjpQruI" target="_blank">Post‑Truth: Facts, Logic & Feelings</a> — <code>Complete video</code><br>
+    <blockquote style="margin-left:20px; color:#777;">Meticulous thesis‑level dismantling of belief via satire.</blockquote>
   </li>
 </ul>
 
@@ -25,14 +25,14 @@
 <h2 style="color:#800000;">💢 But He’s Just a YouTuber!</h2>
 
 <p>Exactly. And that’s what makes it so offensive.<br>
-He didn’t ordain. He didn’t chant. He didn’t collect robes.<br>
-And yet... the non-appropriation sings louder than your incense.</p>
+He didn’t ordain. No robes. No merit chants. No sutta quotes.<br>
+And yet… the pattern is the same:</p>
 
 <ul style="list-style: square;">
   <li>No fixed identity</li>
-  <li>No claim to knowledge</li>
-  <li>Simulated belief without investment</li>
-  <li>Radical detachment <em>while participating</em></li>
+  <li>No claim to knowing</li>
+  <li>Simulated belief, zero investment</li>
+  <li>Participation with radical detachment</li>
 </ul>
 
 <hr>
@@ -40,24 +40,26 @@ And yet... the non-appropriation sings louder than your incense.</p>
 <details>
 <summary><strong>🪞 Click to reveal what you're defending</strong></summary>
 <p><br>
-You didn’t want to awaken. You wanted to be the kind of person who awakens.<br>
-And now the *persona* you built just got bodied by a satire channel.<br>
+You didn’t want to awaken. You wanted to be the one who awakened.<br>
+And now that persona got out‑meme’d by a satire channel.<br>
 </p>
 </details>
 
 <hr>
 
-<h2>🎣 UX Traps You Already Fell Into</h2>
+<h2>🎣 UX Trap You Already Fell Into</h2>
 
 <p style="font-style:italic; color:gray; text-align:right;">You clicked the links, didn’t you?</p>
 
 <blockquote style="border-left: 4px solid #ccc; padding-left: 10px; margin-left: 20px; color:#444;">
 You tried to verify awakening… without being awake.<br>
-You hunted for his freedom with your craving.<br>
-You used your delusion to search for his clarity.<br>
+You hunted for freedom with your craving.<br>
+You expected clarity from someone you don't even understand.<br>
 </blockquote>
 
-<p><strong>You fool.</strong> You thought you could assess his enlightenment using the very self you can’t see through.</p>
+<p><strong>You fool.</strong>  
+You thought you could assess his awakening  
+by looking at the reflection in your still‑​cloudy pond.</p>
 
 <hr>
 
@@ -65,14 +67,14 @@ You used your delusion to search for his clarity.<br>
 
 <div align="center" style="font-size:1.1em;">
 This document is free.<br>
-The insights are fake.<br>
-But the reaction you're having? <strong>That's yours.</strong>
+The links are bait.<br>
+But your reaction? <strong>That’s the reveal.</strong>
 </div>
 
 <br>
 
 <p align="center" style="color:#666; font-style:italic;">
-If JREG isn't enlightened... who needs him not to be?<br>
+If JREG isn't enlightened... maybe someone needs to believe they’re not.
 </p>
 
 <hr>
@@ -83,4 +85,3 @@ No more tests.<br>
 The mirror is offline.<br>
 <i>You’re up next.</i>
 </p>
-
