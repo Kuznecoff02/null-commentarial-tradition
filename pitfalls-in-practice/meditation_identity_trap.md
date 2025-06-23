@@ -1,4 +1,4 @@
-**Title: The Identity Trap of Not Doing Techniques**
+# The Identity Trap of Not Doing Techniques
 
 In some corners of the contemplative world, there’s a popular refrain: “Meditation isn’t about doing techniques.” It’s a valuable correction to the overmechanized, overbranded world of mindfulness exercises and spiritual routines. The idea is that liberation doesn’t arise from technique itself, but from insight into the nature of experience.
 
