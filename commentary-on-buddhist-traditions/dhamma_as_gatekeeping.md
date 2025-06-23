@@ -1,4 +1,4 @@
-**Dhamma as Gatekeeping**
+# Dhamma as Gatekeeping
 
 Some practitioners believe that the Dhamma is the only path to liberation. They cling to the term *Buddhism* as if it were a brand, a boundary, a gate. The suttas become scriptures. The robes become uniforms. The lineage becomes license. And before long, the path becomes a product—exclusive, marketable, and closed.
 
