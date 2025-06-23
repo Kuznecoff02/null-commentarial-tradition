@@ -44,3 +44,17 @@ If it functions, use it. If it doesn’t, discard it.
 But check carefully before discarding—because the thing that resists it might be the very thing it’s pointing to.
 
 No path will ever be *the* path. But some tools slice cleaner than others.
+
+## 🪞 Mirror Gallery
+
+A quiet hallway, just out of sight. No one told you to go there.  
+You walked in anyway. Why?
+
+[`mirror-gallery/`](./mirror-gallery)
+
+Inside:
+- Titles you can't ignore
+- Clicks you can't undo
+- Detonations you can't walk back
+
+Enjoy the mirrors.
