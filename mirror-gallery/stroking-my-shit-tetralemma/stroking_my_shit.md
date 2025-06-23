@@ -51,5 +51,5 @@ If it were just you, you wouldn’t have clicked anything.</p>
 
 <p align="center" style="font-size:0.85em; color:#888;">
 File 1 of 4 — see also:<br>
-<a href="stroking_your_shit.md">Stroking Your Shit</a> · <a href="stroking_our_shit.md">Stroking Our Shit</a> · <a href="stroking_neither_of_our_shits.md">Stroking Neither of Our Shit</a>
+<a href="stroking_your_shit.md">Stroking Your Shit</a> · <a href="stroking_our_shit.md">Stroking Our Shit</a> · <a href="stroking_neither_of_our_shit.md">Stroking Neither of Our Shit</a>
 </p>
