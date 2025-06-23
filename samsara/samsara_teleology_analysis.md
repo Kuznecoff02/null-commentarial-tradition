@@ -1,4 +1,4 @@
-## Samsara Is Teleology
+# Samsara Is Teleology
 
 Most people think of samsara as a place, a plane of rebirth, or a state of mind filled with suffering. But samsara is none of these. Samsara is movement under the illusion that movement matters. Samsara is the compulsion to go somewhere—anywhere—because you think being here isn’t enough. And the engine behind that movement is teleology: the belief that things are supposed to go *somewhere*, that life has a direction, that experience must add up to something. 
 
@@ -6,7 +6,7 @@ To say "samsara is teleology" is not metaphor. It is literal structure. Samsara 
 
 ---
 
-### The Invisible Governor
+## The Invisible Governor
 
 Teleology isn’t just a belief. It’s a background assumption. A gravitational field. Most people don’t recognize it because it never announces itself. It’s not a thought you *have*—it’s what makes thoughts seem worth having in the first place. It governs motivation, identity, narrative, even restraint. It is the silent contract behind every form of becoming.
 
@@ -14,7 +14,7 @@ People think they are trying to be happy. What they’re really doing is trying 
 
 ---
 
-### Uprooting the Seed, Not the Branches
+## Uprooting the Seed, Not the Branches
 
 In classical Buddhism, craving is peeled away layer by layer. First sensuality, then identity, then subtle conceits. The ten fetters are presented as a gradual loosening. But the truth is, each fetter is just a mask of teleology. 
 
@@ -30,7 +30,7 @@ Flip the model. Don't see craving as mostly uprooted with some 1% residue. See t
 
 ---
 
-### The Trench Coat of Craving
+## The Trench Coat of Craving
 
 Teleology is the trench coat under which all other cravings hide. It’s not a particular desire—it’s what makes desire *feel necessary*. It doesn't say, "Eat this" or "Run away from that." It says: "This means something. You should care." And it’s that *should*—subtle, ambient, unchallenged—that keeps the wheel of becoming turning.
 
@@ -40,7 +40,7 @@ But craving isn’t just a pull toward an object—it’s the structural implica
 
 ---
 
-### Meaning as a Double Bind
+## Meaning as a Double Bind
 
 The most sophisticated trap is meaning itself. Because as long as something *means* something, action has weight. And as long as action has weight, inaction feels like failure. The loop never ends.
 
@@ -56,7 +56,7 @@ The escape isn’t on either side. It’s seeing that the axis *was never real*.
 
 ---
 
-### Examples of Downstream Teleology
+## Examples of Downstream Teleology
 
 These are not random behaviors. They are echoes of a deep structure:
 
@@ -70,7 +70,7 @@ Even letting go can be governed by teleology. “I’m letting go so I can….�
 
 ---
 
-### Nibbāna Is the Collapse of Axis
+## Nibbāna Is the Collapse of Axis
 
 True nibbāna isn’t the end of craving—it’s the end of the system that made craving meaningful. It’s not suppression. It’s not restraint. It’s the realization that the *engine* was an illusion.
 
@@ -85,7 +85,7 @@ There is movement, but no mover. Behavior, but no strategy. This is the end of s
 
 ---
 
-### Conclusion
+## Conclusion
 
 Samsara is not rebirth. It’s not suffering. It’s not clinging. Samsara is teleology—the unseen compulsion to make something *matter*. To see that, and to drop it, is to leave the cycle entirely.
 
