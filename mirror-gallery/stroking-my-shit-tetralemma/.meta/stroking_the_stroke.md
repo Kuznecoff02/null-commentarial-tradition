@@ -9,7 +9,7 @@
 <h2>👁️ Recursive Hand Syndrome</h2>
 
 <p>This isn’t about <strong>stroking your shit</strong>. Or mine. Or ours. Or no one’s.<br>
-This is about **the hand itself**.<br>
+This is about the hand itself.<br>
 The mechanism that moved when there was nothing to move toward.<br>
 You didn’t want insight. You wanted to <em>want</em> it. That’s the true stroke.</p>
 
@@ -37,7 +37,7 @@ It just adds a layer of ironic lotion.</p>
 
 <p>You think you’re clever.<br>
 You think naming the loop removes it.<br>
-But **you’re the one who made the tetralemma funny**—not by laughing, but by needing it to mean something.</p>
+But you’re the one who made the tetralemma funny—not by laughing, but by needing it to mean something.</p>
 
 <p>This file isn’t a fifth quadrant.<br>
 It’s the moment you noticed your hand was already moving—<br>and thought: “Let’s make that symbolic.”</p>
