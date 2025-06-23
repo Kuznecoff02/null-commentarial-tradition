@@ -73,6 +73,15 @@ And you’re still not free.
 
 So now what?
 
+<details>
+<summary>Click here if you're ready for the truth.</summary>
+Wow. You actually clicked this.
+
+So you’re not just curious—you’re still hoping for something.
+
+But what if there’s nothing here?
+What if that urge to click… was the last move your ego had left?
+<details>
 ---
 If this feels like an attack, good.
 But the one being attacked was never real.
