@@ -1,55 +1,66 @@
-<!-- Stroking My Shit Tetralemma - Quadrant I -->
+<!-- Stroking My Shit Tetralemma - Quadrant I: Ego Grip Special -->
 
-<h1 align="center">🫳 Stroking My Shit</h1>
+<h1 align="center">🧤 Stroking My Shit</h1>
 
-<p align="center"><em>I do the work. I hold the tension. I suffer properly.</em></p>
+<p align="center"><em>This one’s mine. I earned it. Get your own insight.</em></p>
 
 <hr>
 
-<h2>🪓 The Discipline Frame</h2>
-<p>I’m the serious one.<br>
-I know how to hold space for myself.<br>
-I don’t outsource my path.<br>
-I grind. I sit. I renounce. I don’t perform.</p>
+<h2>💪 The Solo Discipline of Selfing</h2>
+
+<p>Don’t touch me. I’m doing the Work.<br>
+Years of practice, dedication, restraint.<br>
+I don’t just meditate—I **self-fondle my discipline** like it’s a virtue kink.</p>
 
 <blockquote>
-“I don’t need anyone else.”
-<br>...Except for the part where I check who’s watching me not need anyone else.
+“I don’t crave anymore.”
+<br>Except the craving to be the one who no longer craves.
 </blockquote>
+
+<p>You’ve been doing this alone so long, you’ve mistaken repetition for depth.<br>
+You’ve confused stroking for shedding.<br>
+And somewhere along the way, you started moaning in Pali.</p>
 
 <hr>
 
-<h2>🕳️ UX Trap #1: Click for validation</h2>
+<h2>🕳️ UX Trap #1: Enlightenment Edge-Loop</h2>
+
 <details>
-<summary><strong>Click here to prove you're authentic.</strong></summary>
-<p>Congratulations. You’ve just demonstrated the craving to be seen as not craving.<br>
-Very meta. Very unfree.</p>
+<summary><strong>Click here if you think you’re almost there.</strong></summary>
+<p>You just touched it again.<br>
+You reached for the final release—the insight ejaculation.<br>
+But awakening can’t happen while you’re still using your progress as lube.<br>
+This isn’t your climax. It’s your frame’s refractory period.</p>
 </details>
 
 <hr>
 
-<h2>🪞 The Self That Earns Its Absence</h2>
-<p>You’re not letting go.<br>
-You’re performing “not holding on.”<br>
-You’ve turned dispassion into a flex.<br>
-You’re not humble—you’re just staging stillness.</p>
+<h2>🎭 Why You’ll Keep Stroking</h2>
+
+<p>Because deep down you think if you stroke hard enough, the illusion will snap.<br>
+You’ll *edge* your way into emptiness.<br>
+You’ll *squeeze* non-duality out like it’s the last drop of self-view.</p>
+
+<p>You want it to happen to **you.**<br>
+But that means there still is a you.<br>
+And that means the one stroking will never climax.</p>
 
 <blockquote>
-“You don’t understand how hard I’ve worked.”<br>
-Yes, I do. That’s the problem.
+“I just want to let go.”
+<br>Then why are you holding the technique like it’s your cock?
 </blockquote>
 
 <hr>
 
-<h2>🎭 Exit Question</h2>
-<p align="center"><strong>Who are you doing this for?</strong><br>
-If it were just you, you wouldn’t have clicked anything.</p>
+<h2>🚽 Exit Question</h2>
 
-<p align="center"><code>git add . && git commit -m "solo stroker"</code></p>
+<p align="center"><strong>If this is really the last step… why does it still feel like you’re holding something?</strong></p>
+
+<p align="center"><code>touch ~/final_release && echo "oh."</code></p>
 
 <hr>
 
 <p align="center" style="font-size:0.85em; color:#888;">
-File 1 of 4 — see also:<br>
-<a href="stroking_your_shit.md">Stroking Your Shit</a> · <a href="stroking_our_shit.md">Stroking Our Shit</a> · <a href="stroking_neither_of_our_shit.md">Stroking Neither of Our Shit</a>
+File 1 of 4 — explore the Tetralemma:<br>
+<strong>Stroking My Shit</strong> · <a href="stroking_your_shit.md">Stroking Your Shit</a> · <a href="stroking_our_shit.md">Stroking Our Shit</a> · <a href="stroking_neither_of_our_shit.md">Stroking Neither of Our Shit</a>
 </p>
