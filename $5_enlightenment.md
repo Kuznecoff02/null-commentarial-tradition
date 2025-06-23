@@ -125,4 +125,6 @@ But the one being attacked was never real.
 So what are you defending?
 
 ---
+
 <details>
+[You thought something was here, didn't you? Tsk tsk, craving...]
