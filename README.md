@@ -19,8 +19,9 @@ They do not preserve the tradition. They **expose its structure**.
 |-------|----------|
 | **[Samsara is Teleology](samsara/samsara_teleology_analysis.md)** | How teleology is the root of all craving, and is accurately represented as craving itself. |
 | **[Frame Levels](frame-levels)** | An alternative mapping of the Buddha's 4-stage model of enlightenment |
-| **[Stream Entry Without Belief](main_articles/stream_entry_beliefless.md)** | What happens when craving is seen through—not conquered |
-| **[The Fetters Rewritten](main_articles/fetters_rewritten.md)** | A structural reinterpretation of spiritual progress |
+| **[Pitfalls in Practice](pitfalls-in-practice)** | Common traps all but some practitioners fall into that prevent them from reaching arahantship. |
+| **[Insight as Pattern Recognition](insight_as_pattern_recognition.md)** | A demystificacation of "insight" into practical structural recognition to end all craving. |
+| **[Post Truth Pali Cannon](commentary-on-buddhist-traditions/post-truth-pali-cannon)** | A post-truth structural reading of the Dhamma, from how the Buddha would have lived it (he was post-truth).|
 | **[Why This Writing Can't be Faked](anti-legitimacy-claims)** | Haters will say it's fake. The fake ones will realize they are haters. There was never anything fake, nor any hater writing. |
 
 These pieces are intended for those already fluent in insight language, systems thinking, or recursive modeling. No doctrine, no worship, no performance.
@@ -34,7 +35,7 @@ These pieces are intended for those already fluent in insight language, systems 
 
 - **[$5 Enlightenment](mirror-gallery/$5_enlightenment.md)** – If you’d rather polish your journey than drop it.
 - **[Oops, You Ordained](mirror-gallery/oops_you_ordained.md)** – Identity laundering in saffron.
-- **[I Got Bored Writing This](mirror-gallery/i_got_bored.md)** – UX entropy meets spiritual fatigue.
+- **[I Got Bored Writing](mirror-gallery/i_got_bored_writing.md)** – UX entropy meets spiritual fatigue.
 - **[A Tetralemma](mirror-gallery/stroking-my-shit-tetralemma/stroking_my_shit.md)** – A treatise on the function of tetrelemmas in the 21st century.
 
 <sub>If you find yourself clicking repeatedly… that’s the point.</sub>
