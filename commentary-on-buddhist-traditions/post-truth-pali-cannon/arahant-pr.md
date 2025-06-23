@@ -1,7 +1,5 @@
----
-title: "🔒 The Arahant and the PR Interface"
+# "🔒 The Arahant and the PR Interface"
 description: "Post-truth analysis of arahant behavior, virtue, and the Buddha's framing infrastructure. Not a metaphysical critique—just structural accuracy."
----
 
 > "The rules weren’t for the arahants. They were for the people watching them."
 
