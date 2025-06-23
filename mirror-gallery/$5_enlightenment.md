@@ -1,3 +1,4 @@
+
 # 🪙 Would You Pay Me $5 for Full Enlightenment?
 
 Let’s skip the poetry.
@@ -137,3 +138,42 @@ So what are you defending?
 > If you felt nothing reading this, congratulations.  
 > You’re either free…  
 > …or performing enlightenment harder than anyone else here.
+
+
+---
+
+<br><br>
+
+<div align="center">
+    <h3>Still here?</h3>
+    <em>What are you waiting for—permission?</em>
+</div>
+
+---
+
+<details>
+<summary>Click here if you think you've already let go.</summary>
+<br>
+No you haven’t. That’s just the story craving tells itself when it’s tired.
+</details>
+
+---
+
+<div align="right">
+    <strong>You came here looking for something.</strong><br>
+    That’s how I know you're still not free.
+</div>
+
+<br><br>
+
+<blockquote>
+If this felt like an attack, that’s because you were still holding the shield.
+</blockquote>
+
+---
+
+## 🚪 Exit
+
+You made it to the end.
+
+So why are you still scrolling?
