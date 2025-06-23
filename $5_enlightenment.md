@@ -109,8 +109,8 @@ You’re uncomfortable because this repo isn’t attacking the tradition.
 It’s attacking the part of you that’s still performing for it.
 
 And the second you realize that, you have two options:
-	•	Double down on the discomfort and spiritualize your resistance.
-	•	Or… laugh.
+* Double down on the discomfort and spiritualize your resistance.
+* Or… laugh.
 
 Because that’s what awakening sounds like when it lands through the side door:
 Not stillness.
