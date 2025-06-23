@@ -25,7 +25,7 @@ Or have you just been rehearsing what it feels like to want it?
 
 ---
 
-##🪞 The Joke’s On You
+## 🪞 The Joke’s On You
 
 Because if you’re offended right now, that tells me everything I need to know.
 You’re not insulted because I disrespected the Dhamma.
