@@ -34,7 +34,7 @@ You’re not holding space. You’re fluffing each other’s identities.</p>
 <p>This isn’t sangha.<br>
 It’s mutual mirroring for psychological edging.<br>
 You’re not awakening together. You’re scripting group cosplay for “letting go.”<br>
-And the safe word? It's *lineage.*</p>
+And the safe word? It's lineage.</p>
 
 <blockquote>
 “We’re building a container.”
