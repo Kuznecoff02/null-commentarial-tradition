@@ -11,10 +11,6 @@
 <ul>
   <li><a href="https://www.youtube.com/watch?v=jhsUchBe3I0" target="_blank">Post‑Ironic Hyper‑Political Extremism</a> — <code>Timestamp ~15:15</code><br>
     <blockquote style="margin-left:20px; color:#555;">“Explore ideology by role‑playing it to collapse it.”</blockquote>
-  </li>
-  <li><a href="https://www.youtube.com/watch?v=P55t6eryY3g" target="_blank">How to Radicalize a Normie</a> — <code>Timestamp ~3:15</code><br>
-    <blockquote style="margin-left:20px; color:#555;">“You need the illusion to see past the illusion.”</blockquote>
-  </li>
   <li><a href="https://www.youtube.com/watch?v=J3irKjpQruI" target="_blank">Post‑Truth: Facts, Logic & Feelings</a> — <code>Complete video</code><br>
     <blockquote style="margin-left:20px; color:#777;">Meticulous thesis‑level dismantling of belief via satire.</blockquote>
   </li>
