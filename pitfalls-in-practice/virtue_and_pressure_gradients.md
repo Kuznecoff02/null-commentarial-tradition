@@ -1,4 +1,4 @@
-**Virtue Is Not Necessary for Enlightenment**
+# Virtue Is Not Necessary for Enlightenment
 
 The common understanding is that virtue (sīla) is a prerequisite for enlightenment. But this is only true if virtue is misunderstood as a *moral* requirement. Enlightenment has nothing to do with behavior conforming to rules. It has everything to do with the collapse of **appropriation**—and virtue, properly understood, is just a diagnostic tool to expose the **pressure gradients** that arise when one still clings to meaning, control, and self-view.
 
