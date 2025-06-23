@@ -85,7 +85,3 @@ The *Preface* to *Notes on Dhamma* skillfully dismantles traditional interpretiv
 
 ### 🔍 Final Diagnostic:
 > *The Preface calls for vertical seeing—but still from a subject position. The doorway is framed; the threshold remains.*
-
----
-
-Let me know when you'd like to proceed to the next note in the series (e.g., “Paramattha Sacca”), or if you’d like to integrate more quotes or elaborations from this section.
