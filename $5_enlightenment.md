@@ -81,13 +81,6 @@ So you’re not just curious—you’re still hoping for something.
 
 But what if there’s nothing here?
 What if that urge to click… was the last move your ego had left?
-<details>
----
-If this feels like an attack, good.
-But the one being attacked was never real.
-So what are you defending?
-
----
 
 ## 📝 Addendum: Why This Is So Fucking Funny
 
@@ -125,3 +118,11 @@ Because that’s what awakening sounds like when it lands through the side door:
 Not stillness.
 Not bliss.
 Just the unmistakable sound of your **ego slipping on its own banana peel.**
+<details>
+
+---
+If this feels like an attack, good.
+But the one being attacked was never real.
+So what are you defending?
+
+---
