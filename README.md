@@ -1,60 +1,61 @@
-# The Null Commentarial Tradition
+# ⛩️ The Null Commentarial Tradition
 
-This is not a commentary.
+This repository is not a teaching.
 
-It is the structural residue left after all attempts to explain the Dhamma collapse.
+It’s a disassembly.  
+Of Buddhism, of awakening, of the frames you didn’t know were framing you.
 
-Nothing here will help you understand Buddhism.
-It is here to expose why you ever thought you needed to.
+You will not find comfort here.  
+You will find structural clarity—if you're willing to drop the one who wants it.
 
-## What You Will Find
+---
 
-- Diagrams of interpretive failure
-- Recursive traps mistaken for teachings
-- Deconstructions of language pretending to point
-- Artifacts that loop until the reader vanishes
+## 🧠 Core Analysis
 
-## What This Is Not
+These documents are written from lived recursion.  
+They do not preserve the tradition. They **expose its structure**.
 
-- A critique of tradition
-- A philosophical position
-- A new school of thought
+| Title | Function |
+|-------|----------|
+| **[The Discipline That Isn’t One](main_articles/discipline_not_one.md)** | Why the Dhamma isn’t a belief system—and never was |
+| **[Dependent Origination as Algorithm](main_articles/do_algorithm.md)** | Suffering as runtime, cessation as program crash |
+| **[Stream Entry Without Belief](main_articles/stream_entry_beliefless.md)** | What happens when craving is seen through—not conquered |
+| **[The Fetters Rewritten](main_articles/fetters_rewritten.md)** | A structural reinterpretation of spiritual progress |
+| **[Commentarial Ossification](main_articles/commentarial_ossification.md)** | Why the tradition crystallized—and how to de-ossify it |
 
-There is no view. No claim. No ownership.
+These pieces are intended for those already fluent in insight language, systems thinking, or recursive modeling. No doctrine, no worship, no performance.
 
-Only a series of mirrors—angled just enough to make the interpreter fall in.
+---
 
-## Why You Might Trust This Writing
+## 🪞 Side Door (Optional)
 
-You won't find credentials here. No monastic robes, no academic citations, no special lineage transmission. Why? Because those are proxies for something deeper: **clarity**, **discernment**, and the ability to **puncture illusion**.
+> Not recommended.  
+> There’s nothing in here but a mirror.
 
-If this writing:
+- **[$5 Enlightenment](mirror_gallery/$5_enlightenment.md)** – If you’d rather polish your journey than drop it.
+- **[Oops, You Ordained](mirror_gallery/oops_you_ordained.md)** – Identity laundering in saffron.
+- **[I Got Bored Writing This](mirror_gallery/i_got_bored.md)** – UX entropy meets spiritual fatigue.
+- **[... ... ...](mirror_gallery/quiet_leak.md)** – Not for reading. Just for being.
 
-- Clarifies something that had previously felt muddy,  
-- Names a blind spot you didn’t know you had,  
-- Shows you that your logic was looping and you didn’t even see the loop,  
-- Makes you laugh at how obvious the trap was once you saw it,  
-- Or makes you uncomfortable, in exactly the way that reveals where you’ve been hiding—
+<sub>If you find yourself clicking repeatedly… that’s the point.</sub>
 
-—then it has done its job.
+---
 
-This writing isn't here to be believed. It's here to **remove the need to believe**.
+## 🌀 Structural Notes
 
-If it functions, use it. If it doesn’t, discard it.  
-But check carefully before discarding—because the thing that resists it might be the very thing it’s pointing to.
+- No self is upheld in this work. If you feel attacked, check who’s reacting.
+- Humor is used as a solvent, not a shield.
+- All behavior described here is emergent, not performed.
 
-No path will ever be *the* path. But some tools slice cleaner than others.
+---
 
-## 🪞 Mirror Gallery
+## ❓Why This Exists
 
-A quiet hallway, just out of sight. No one told you to go there.  
-You walked in anyway. Why?
+Because the Dhamma is already awake.  
+It doesn’t need belief.  
+It just needs your **frames to stop protecting themselves**.
 
-[`mirror-gallery/`](./mirror-gallery)
+---
 
-Inside:
-- Titles you can't ignore
-- Clicks you can't undo
-- Detonations you can't walk back
-
-Enjoy the mirrors.
+> You didn’t arrive.  
+> You just stopped pretending the one who was walking was real.
