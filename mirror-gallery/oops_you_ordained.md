@@ -13,16 +13,6 @@ Still reading this.
 
 ---
 
-You thought ordination would end it.  
-Or at least speed it up.  
-You thought commitment would collapse craving.
-
-It didn’t.
-
-It just gave craving a new outfit.
-
----
-
 <blockquote>
 <em>“You didn’t ordain. The self did.”</em>
 </blockquote>
@@ -34,33 +24,40 @@ It just gave craving a new outfit.
 
 ---
 
+<details>
+<summary>Click here if you think you’re past this.</summary>
+You clicked.
+You’re not.
+</details>
+
+---
+
 You gave up pleasure.  
 You gave up comfort.  
 You gave up your name.
 
 But you didn’t give up the one who wants to mean something.
 
----
+<br><br>
 
-Now you walk slowly.  
-Now you eat mindfully.  
-Now you say “practice” like it means something sacred.
-
-But when someone says, “Oops, you ordained”—  
-you flinch.
-
-Why?
+<div align="right">
+<em>That part is still walking barefoot for recognition.</em>
+</div>
 
 ---
 
-Because some part of you still wants it to be real.  
-Still wants it to be respected.  
-Still wants **you** to be respected.
+## 🪫 This Was Supposed to Be Sacred
+
+But then why are you flinching?
+
+Who’s defending?
+
+What part of you is asking for respect?
 
 ---
 
-You’re not a monk.  
-You’re a performance of renunciation.
+> You’re not a monk.  
+> You’re a performance of renunciation.
 
 And deep down, you know it.
 
@@ -68,17 +65,14 @@ That’s why you clicked.
 
 ---
 
-This isn’t a mockery of the robe.  
-This is a mirror you didn’t want to see in the kuti.
-
-The real renunciation wasn’t your house, or your hair, or your sexual history.
-
-> It was the idea that there was ever a **you** to purify.
+<blockquote>
+    <strong>This isn’t a mockery of the robe.</strong><br>
+    This is a mirror you didn’t want to see in the kuti.
+</blockquote>
 
 ---
 
-> So yeah.
-
-> Oops.
-
-> You ordained.
+<div align="center">
+    <h3>Oops.</h3>
+    <h3>You ordained.</h3>
+</div>
