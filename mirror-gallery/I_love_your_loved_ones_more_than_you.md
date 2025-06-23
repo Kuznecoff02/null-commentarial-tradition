@@ -107,22 +107,3 @@ And you’re the one bleeding into it.
 I love your loved ones more than you do.<br>
 Because I’m not asking them to love me back.
 </p>
-
-
-<script>
-const glitch = text => text.split('').map(c => `<span style="animation: glitch 1s infinite alternate; display:inline-block;">${c}</span>`).join('');
-const header = document.querySelector('h1');
-if (header) header.innerHTML = glitch(header.innerText);
-</script>
-
-
-<style>
-@keyframes glitch {
-  0% { transform: translate(0); color: #000; }
-  20% { transform: translate(-1px, 1px); color: #990000; }
-  40% { transform: translate(1px, -2px); color: #cc3333; }
-  60% { transform: translate(-2px, 2px); color: #666; }
-  80% { transform: translate(1px, 1px); color: #222; }
-  100% { transform: translate(0); color: #000; }
-}
-</style>
