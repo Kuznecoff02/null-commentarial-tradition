@@ -32,10 +32,10 @@ These pieces are intended for those already fluent in insight language, systems 
 > Not recommended.  
 > There’s nothing in here but a mirror.
 
-- **[$5 Enlightenment](mirror_gallery/$5_enlightenment.md)** – If you’d rather polish your journey than drop it.
-- **[Oops, You Ordained](mirror_gallery/oops_you_ordained.md)** – Identity laundering in saffron.
-- **[I Got Bored Writing This](mirror_gallery/i_got_bored.md)** – UX entropy meets spiritual fatigue.
-- **[... ... ...](mirror_gallery/quiet_leak.md)** – Not for reading. Just for being.
+- **[$5 Enlightenment](mirror-gallery/$5_enlightenment.md)** – If you’d rather polish your journey than drop it.
+- **[Oops, You Ordained](mirror-gallery/oops_you_ordained.md)** – Identity laundering in saffron.
+- **[I Got Bored Writing This](mirror-gallery/i_got_bored.md)** – UX entropy meets spiritual fatigue.
+- **[... ... ... ... ... ... ... ... ... ... ... ... ...](mirror_gallery/... ... ... ... ... ... ... ... ... ... ... ... ....md)** – Not for reading. Just for being.
 
 <sub>If you find yourself clicking repeatedly… that’s the point.</sub>
 
