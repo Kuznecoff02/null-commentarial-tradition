@@ -1,4 +1,4 @@
-**Why the Buddha and Nāgārjuna Are the Only Two Figures You Need to Read in Buddhist History**
+# Why the Buddha and Nāgārjuna Are the Only Two Figures You Need to Read in Buddhist History
 
 ---
 
@@ -10,7 +10,7 @@ Let’s walk through it carefully. Slowly. Like the whole thing depends on it.
 
 ---
 
-### The Buddha: Diagnostician of Experience
+## The Buddha: Diagnostician of Experience
 
 What the Buddha uncovered wasn't a belief system. It wasn’t a religion. It wasn’t even a “view.”
 
@@ -28,7 +28,7 @@ He was like a locksmith for the human mind. He didn't give you a new place to lo
 
 ---
 
-### Nāgārjuna: The Master of Collapse
+## Nāgārjuna: The Master of Collapse
 
 If the Buddha laid bare the architecture of suffering, Nāgārjuna demolished every attempt to re-architect it.
 
@@ -46,7 +46,7 @@ To read Nāgārjuna properly is to lose your footing. That was the point.
 
 ---
 
-### Why These Two Are Enough
+## Why These Two Are Enough
 
 When you’ve seen the mechanism (the Buddha) and the futility of rebuilding it (Nāgārjuna), you don’t need more names. You don’t need later interpretations, elaborate rituals, or translations of translations. You need clarity.
 
@@ -58,7 +58,7 @@ If you’re not careful, you end up mistaking proximity to the teachings for und
 
 ---
 
-### The Reading Strategy That Actually Works
+## The Reading Strategy That Actually Works
 
 Stop reading these texts like they’re wisdom literature. Start reading them like behavioral blueprints. Every line should be read with the question:
 
@@ -74,7 +74,7 @@ This is not hermeneutics. It’s engineering.
 
 ---
 
-### The Point Isn’t the Teachings. It’s the Exit.
+## The Point Isn’t the Teachings. It’s the Exit.
 
 Once the structure is seen, the teachings can fall away. That’s why both the Buddha and Nāgārjuna point beyond themselves.
 
