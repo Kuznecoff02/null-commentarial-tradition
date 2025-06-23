@@ -10,7 +10,7 @@
 
 <p>Don’t touch me. I’m doing the Work.<br>
 Years of practice, dedication, restraint.<br>
-I don’t just meditate—I **self-fondle my discipline** like it’s a virtue kink.</p>
+I don’t just meditate—I self-fondle my discipline like it’s a virtue kink.</p>
 
 <blockquote>
 “I don’t crave anymore.”
@@ -38,10 +38,10 @@ This isn’t your climax. It’s your frame’s refractory period.</p>
 <h2>🎭 Why You’ll Keep Stroking</h2>
 
 <p>Because deep down you think if you stroke hard enough, the illusion will snap.<br>
-You’ll *edge* your way into emptiness.<br>
-You’ll *squeeze* non-duality out like it’s the last drop of self-view.</p>
+You’ll edge your way into emptiness.<br>
+You’ll squeeze non-duality out like it’s the last drop of self-view.</p>
 
-<p>You want it to happen to **you.**<br>
+<p>You want it to happen to you.<br>
 But that means there still is a you.<br>
 And that means the one stroking will never climax.</p>
 
