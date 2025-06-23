@@ -32,10 +32,6 @@ It just gave craving a new outfit.
     Just better dressed.
 </div>
 
-The one who needs to be seen letting go?  
-Still here.  
-Just better dressed.
-
 ---
 
 You gave up pleasure.  
