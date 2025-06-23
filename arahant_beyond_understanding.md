@@ -6,15 +6,15 @@ but because your interpretive framework doesn’t apply.
 
 ---
 
-## The Limits of Karma
+## The Limits of Kamma
 
 The suttas are clear:
-> "The Arahant is beyond the reach of karma."
+> "The Arahant is beyond the reach of kamma."
 
 That doesn’t mean they don’t experience results.
-It means the **logic of karma doesn’t bind their behavior.**
+It means the **logic of kamma doesn’t bind their behavior.**
 
-Karma, in its structural sense, is a logic of implication:
+kamma, in its structural sense, is a logic of implication:
 - Do X → Get Y
 - Want Y → Do X
 
@@ -43,7 +43,7 @@ An arahant could be:
 
 > Their behavior does not broadcast their frame.
 
-You are reading with karma logic.
+You are reading with kamma logic.
 They are acting without it.
 
 ---
