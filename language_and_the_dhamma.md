@@ -1,4 +1,4 @@
-**You Don’t Need Jargon to Understand the Dhamma**
+# You Don’t Need Jargon to Understand the Dhamma
 
 The Dhamma is not in the words. It’s not in the language. And it’s certainly not in the jargon.
 
