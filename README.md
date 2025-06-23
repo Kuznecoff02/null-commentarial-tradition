@@ -35,7 +35,7 @@ These pieces are intended for those already fluent in insight language, systems 
 - **[$5 Enlightenment](mirror-gallery/$5_enlightenment.md)** – If you’d rather polish your journey than drop it.
 - **[Oops, You Ordained](mirror-gallery/oops_you_ordained.md)** – Identity laundering in saffron.
 - **[I Got Bored Writing This](mirror-gallery/i_got_bored.md)** – UX entropy meets spiritual fatigue.
-- **[A tetralemma](mirror-gallery/stroking-my-shit-tetralemma/stroking_my_shit.md)** – A treatise on the function of tetrelemmas in the 21st century.
+- **[A Tetralemma](mirror-gallery/stroking-my-shit-tetralemma/stroking_my_shit.md)** – A treatise on the function of tetrelemmas in the 21st century.
 
 <sub>If you find yourself clicking repeatedly… that’s the point.</sub>
 
