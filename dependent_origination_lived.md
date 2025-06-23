@@ -1,4 +1,4 @@
-**Dependent Origination Is Not a Philosophy**
+# Dependent Origination Is Not a Philosophy
 
 Dependent origination is not a metaphysical claim. It is not a theory about reality. It is not a worldview to adopt. It is a **recursive pattern**—and once seen, it doesn’t stay still. It starts erasing itself.
 
@@ -15,4 +15,3 @@ This is where the tetralemma appears. When the Buddha and Nagarjuna say: "it exi
 Dependent origination is not meant to be kept. It is meant to be walked until the walker is no longer found.
 
 This is not a philosophy. This is the **collapse of needing one.**
-
