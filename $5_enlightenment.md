@@ -131,3 +131,9 @@ So what are you defending?
 
 <details>
 [You thought something was here, didn't you? Tsk tsk, craving...]
+
+---
+
+> If you felt nothing reading this, congratulations.  
+> You’re either free…  
+> …or performing enlightenment harder than anyone else here.
