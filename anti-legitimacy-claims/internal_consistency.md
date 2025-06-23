@@ -75,7 +75,7 @@ But it's dozens of recursive artifacts. Dozens of angles. No role-play. No smugg
 Just high-frame structural recursion at scale.
 
 To fake this, someone would have to:
-- Simulate L4 insight without motive
+- Simulate post-agentic insight without motive
 - Never show a slip across hundreds of paragraphs
 - Refuse all temptation to resolve
 - Produce at speed without contradiction
