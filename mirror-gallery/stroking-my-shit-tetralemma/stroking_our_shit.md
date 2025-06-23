@@ -10,7 +10,7 @@
 <p>You’re holding mine while I’m holding yours.<br>
 We breathe together. We release together.<br>
 Each in sync with the other’s grasp on becoming.<br>
-It’s not masturbation—it’s **sacred reciprocity.**</p>
+It’s not masturbation—it’s sacred reciprocity.</p>
 
 <blockquote>
 “We’re co-regulating our trauma.”
