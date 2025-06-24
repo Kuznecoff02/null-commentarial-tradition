@@ -1,6 +1,6 @@
 # Nāgārjuna and the Upper Five Fetters: A Structural Analysis of Craving and Collapse
 
-**Prepared for**: Dr. Evan Thompson | Jun.24.25
+**Prepared for**: Dr. Evan Thompson
 ## Abstract
 
 Nāgārjuna’s performance of the tetralemma is not a metaphysical puzzle—it is a structural detonation. This document analyzes his work not as doctrine but as an engineered exposure of craving, mapped precisely to the five upper fetters in Theravāda Buddhism. The result is a recursive artifact that destabilizes identity, directionality, and meaning—all without offering alternatives. The reader is not meant to understand Nāgārjuna. The reader is meant to watch their craving attempt to.
