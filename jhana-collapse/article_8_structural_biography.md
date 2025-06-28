@@ -54,4 +54,4 @@ And what it’s like to realize, after the fact, that you’d been living on a d
 
 ---
 
-[**⟵** *Jhāna, Love, and the Nervous System*](article_7_jhana_love_decoupling.md) • [*Existential Leverage: The Final Currency* **⟶**](_PREFACE_existential_leverage.md)
+[**⟵** **Article 7:** *Jhāna, Love, and the Nervous System*](article_7_jhana_love_decoupling.md) • [**PREFACE:** *Existential Leverage: The Final Currency* **⟶**](_PREFACE_existential_leverage.md)
