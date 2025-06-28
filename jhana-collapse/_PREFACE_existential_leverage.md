@@ -113,4 +113,4 @@ If you’re ready to stop mistaking craving for direction, let’s begin.
 
 ---
 
-[**⟵** Structural Biography — "Why I Didn’t Feel Love for 25 Years"](article_8_structural_biography.md) • [*The Zeroeth Jhāna: Life Inside Craving* **⟶**](article_0_zeroeth_jhana.md)
+[**⟵** *Structural Biography — "Why I Didn’t Feel Love for 25 Years"*](article_8_structural_biography.md) • [*The Zeroeth Jhāna: Life Inside Craving* **⟶**](article_0_zeroeth_jhana.md)
