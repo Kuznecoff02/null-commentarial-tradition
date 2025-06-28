@@ -1,4 +1,4 @@
-# **Existential Leverage: The Final Currency**
+# **PREFACE | Existential Leverage: The Final Currency**
 
 You’ve probably heard of leverage—financial leverage, social leverage, cognitive leverage, AI leverage. But there’s a deeper tier you’ve never been taught to see. This one doesn’t get you more money, prestige, or efficiency. It gets you **off the ride entirely**. It’s not an upgrade inside the game. It’s what happens when you stop needing the game.
 
