@@ -40,3 +40,4 @@ This is not a critique. It is a mirror. If you’re in the zeroeth jhāna, it do
 Jhāna isn't where you go. It's what becomes visible when the zeroeth one stops running in the background.
 
 ---
+[**⟵** **PREFACE:** *Existential Leverage: The Final Currency*](_PREFACE_existential_leverage.md) • [**Article 1:** *What is Jhāna?* **⟶**](article_1_jhana_explained.md)
