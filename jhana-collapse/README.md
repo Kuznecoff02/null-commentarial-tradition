@@ -33,7 +33,7 @@ A direct critique of Hillside Hermitage’s framing. L4 is not caused by jhāna�
 ### [**📘 Article 5: Meditative Jhāna vs Canonical Jhāna**](article_5_meditative_vs_canonical_jhana.md)
 An extended metaphor: carrot vs. stick. Meditative jhāna suppresses the carrot; canonical jhāna disorients the stick. But unless craving is dismantled, both fall short of structural freedom.
 
-### **[📘 Article 6: Monastic Design as Jhāna Infrastructure**](article_6_monastic_jhana_infrastructure.md)
+### [**📘 Article 6: Monastic Design as Jhāna Infrastructure**](article_6_monastic_jhana_infrastructure.md)
 An institutional teardown: how Buddhist monastic codes were *accidentally* optimized for stabilizing jhāna. Not as moral theater, but as craving-suppression containers that allow arahants to remain disengaged.
 
 ### [**📘 Article 7: Jhāna as Decoupled Belonging**](article_7_jhana_love_decoupling.md)
