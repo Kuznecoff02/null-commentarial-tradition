@@ -44,3 +44,6 @@ You don’t climb into L4 through jhāna. You fall out of teleology. And when yo
 
 There is no prerequisite. There is no ladder. There is only this: the recognition that **every state is irrelevant once the craving to reach it is gone**.
 
+---
+
+[**⟵** **Article 3:** *L4 = Ambient Jhāna*](article_3_ambient_jhana.md) • [**Article 5:** *Meditative Jhāna vs Canonical Jhāna* **⟶**](article_5_meditative_vs_canonical_jhana.md)
