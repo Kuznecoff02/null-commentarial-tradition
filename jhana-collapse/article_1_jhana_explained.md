@@ -33,7 +33,7 @@ Jhāna is what happens when craving is off. Not when you’re good at meditating
 
   
 
-###**It arises when:**
+### **It arises when:**
 
 - There is no active system trying to become.
     
