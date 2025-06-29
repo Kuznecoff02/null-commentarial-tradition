@@ -87,3 +87,6 @@ L4 is not what you reach by cultivating jhāna. L4 is what remains when even the
   
 
 So if this addendum triggers unease, fear, or resistance—that’s the payload. That’s the craving. And if you sit with that pressure without trying to resolve it, you’re closer than you think.
+
+---
+[**⟵** **Article 4:** *You Don’t Need Jhāna for L4*](article_4_no_jhana.md) • [**Article 6:** *Monastic Design as Jhāna Infrastructure* **⟶**](article_6_monastic_jhana_infrastructure.md)
