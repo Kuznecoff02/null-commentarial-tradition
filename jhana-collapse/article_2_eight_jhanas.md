@@ -8,7 +8,7 @@ Jhāna is better understood as a **gradient of frictionlessness**—a slope of d
 
 Where L2 views jhāna as an achievement and L3 treats it as a method, L4 recognizes it as a **reduction in default framing**. Nothing is added. Each shift is a further shedding of behavioral entanglement.
 
----
+
 
 ## Unified Definition: Jhāna as Pressure Withdrawal
 
@@ -18,7 +18,7 @@ What distinguishes the jhānas is not content, posture, or technique—but **how
 
 This reframe undoes both the devotional excesses of meditative traditions and the pseudo-skepticism of dismissive secularism. Jhāna is not mystical. It’s not technique-bound. It is **a behavioral field in which craving no longer operates as motive.**
 
----
+
 
 ## Structural Compression of the Eight Jhānas
 
@@ -54,7 +54,7 @@ Below is a compression of the eight jhānas, not as content states but as layers
 - There is no registration of experience, yet no loss of continuity.
 - Not a blankness, but a system that no longer distinguishes itself from anything.
 
----
+
 
 ## Gradient, Not Gearbox
 
@@ -62,7 +62,7 @@ Jhānas are not chambers. They are thresholds on a slope. Movement between them 
 
 This gradient logic exposes the absurdity of jhāna one-upmanship. There is no winner of stillness. No badge for decoupling more completely. The quieter the system becomes, the less it even notices it has changed.
 
----
+
 
 ## Implication Collapse > State Achievement
 
