@@ -39,7 +39,5 @@ So yes, you can feel the warm, expansive, loved sensation with no object present
 
 ---
 
-**Other articles in **
-
 [**⟵** **Article 6:** *Monastic Design as Jhāna Infrastructure*](article_6_monastic_jhana_infrastructure.md) • [**Article 8:** *Structural Biography — "Why I Didn’t Feel Love for 25 Years"* **⟶**](article_8_structural_biography.md)
 
