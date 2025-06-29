@@ -76,3 +76,6 @@ And that’s why the arahant doesn’t dwell in jhāna deliberately. They live i
 
 Jhāna is not a state. It’s the trace signature of freedom from needing to be in one.
 
+---
+
+[**⟵** **Article 1:** *What is Jhāna?*](article_1_jhana_explained.md) • [**Article 3:** *L4 = Ambient Jhāna* **⟶**](article_3_ambient_jhana.md)
