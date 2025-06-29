@@ -9,7 +9,6 @@ L4 isn’t jhānic _because_ it has achieved something. It is jhānic _because i
 
 There is no threshold, no absorption technique, no ladder to climb. There is only cessation. Not of consciousness, not of awareness—but of the machinery that continually tries to manage it. When this management system collapses, what remains is a state no longer governed by pressure. And that—by functional definition—is jhāna.
 
----
 
 ##  Jhāna as Default: What Happens When Nothing Is Moving You
 
@@ -21,7 +20,6 @@ The default state of an L4 system is frictionless. Not because it has been perfe
 
 It is not calm as a quality. It is non-compulsion as a system state.
 
----
 
 ## Why Technique Fails Post-L4
 
@@ -36,7 +34,6 @@ L4 sidesteps this entirely. It doesn’t suppress effort. It doesn’t manage im
 You don’t get into jhāna.  
 You stop exiting it.
 
----
 
 ## Persistence Without Maintenance
 
@@ -53,7 +50,6 @@ It doesn’t need suppression because it doesn’t arise as directive.
 
 The flame doesn’t need to be blown out if no one’s holding the match.
 
----
 
 ## Structural Disarmament: The Secret the Monks Miss
 
@@ -70,7 +66,6 @@ Just behavioral stillness that doesn’t suppress—because there is no longer a
 Jhāna was never about entering a state.  
 It was about _no longer exiting it._
 
----
 
 ## Jhāna as Disappearance
 
@@ -85,3 +80,7 @@ This is not jhāna-as-goal.
 This is **non-jhāna, ceased**.
 
 And what’s left is ambient. Effortless. Already here.
+
+---
+
+[**⟵** **Article 2:** *The Eight Jhānas Collapsed*](article_2_eight_jhanas.md) • [**Article 4:** *You Don’t Need Jhāna for L4* **⟶**](article_4_no_jhana.md)
