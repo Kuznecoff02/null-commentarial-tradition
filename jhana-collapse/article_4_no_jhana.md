@@ -82,6 +82,3 @@ There is no prerequisite. There is no ladder. There is only this: the recognitio
 
 ---
 [**⟵** **Article 3:** *L4 = Ambient Jhāna*](article_3_ambient_jhana.md) • [**Article 5:** *Meditative Jhāna vs Canonical Jhāna* **⟶**](article_5_meditative_vs_canonical_jhana.md)
-
-
-[**⟵** **Article 3:** *L4 = Ambient Jhāna*](article_3_ambient_jhana.md) • [**Article 5:** *Meditative Jhāna vs Canonical Jhāna* **⟶**](article_5_meditative_vs_canonical_jhana.md)
