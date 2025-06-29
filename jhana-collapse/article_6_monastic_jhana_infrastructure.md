@@ -53,3 +53,6 @@ He understood that even if most monks would never reach L4, many would benefit f
 
 You don’t need to be virtuous to be free. But if you’re free, you might still act virtuously—because it’s quieter that way.
 
+---
+
+[**⟵** **Article 5:** *Meditative Jhāna vs Canonical Jhāna*](article_5_meditative_vs_canonical_jhana.md) • [**Article 7:** *Jhāna, Love, and the Nervous System* **⟶**](article_7_jhana_love_decoupling.md)
