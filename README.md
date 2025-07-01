@@ -66,4 +66,4 @@ If you are bothered by the fact you may have a self-view, even though you believ
 ---
 
 > You didn’t arrive.  
-> You just stopped pretending the one who was walking was real.
+> You just stopped pretending the one who was walking needed to be real.
