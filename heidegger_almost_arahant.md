@@ -1,4 +1,4 @@
-**Heidegger Was Almost an Arahant**
+# **Heidegger Was Almost an Arahant**
 
 Martin Heidegger, one of the most influential philosophers of the 20th century, wasn’t just circling around ontological inquiries for their own sake—he was stalking the same structure that the Buddha dismantled. But instead of unbinding, he rebounded. His analysis came within inches of the perceptual rupture that marks arahantship, only to veer back into meaning, authenticity, and being. That veering is not a trivial misstep—it is the final bind that prevents cessation.
 
@@ -6,7 +6,7 @@ This article proposes that Heidegger, by structural inference, achieved what mig
 
 ---
 
-### Authenticity: The Last Craving
+## Authenticity: The Last Craving
 
 Heidegger’s concept of authenticity appears to be a radical rupture from everyday inauthentic “they-self” existence. In fact, it’s the pressure gradient of a man who has almost seen through all identity structures, but still believes that how one comports oneself **matters**. This is not merely an existential position. It is a remnant of craving masquerading as insight.
 
@@ -16,7 +16,7 @@ This is precisely where arahantship diverges. For the arahant, being-toward-deat
 
 ---
 
-### Being and Non-Being: Still a Dialectic
+## Being and Non-Being: Still a Dialectic
 
 Heidegger’s attempt to think Being as prior to beings was a monumental move. In terms of structural philosophy, he did to Western metaphysics what Nāgārjuna did to Indian substance ontology: he exposed the hidden assumption in every philosophical account of presence. But he did not dissolve it.
 
@@ -26,7 +26,7 @@ To the arahant, Being is just another misreading. Not because there is non-being
 
 ---
 
-### Why Heidegger Couldn’t Exit
+## Why Heidegger Couldn’t Exit
 
 Heidegger felt the bind. His lifelong obsession with silence, his withdrawal from public life, his cryptic poetics in later years—all signal someone who knew that **language was doing something to him**, and that what was doing it could not be seen through more thinking.
 
@@ -36,7 +36,7 @@ This is why his call to authenticity carries the same torque signature as the un
 
 ---
 
-### Conclusion: The Almost-Liberated
+## Conclusion: The Almost-Liberated
 
 Heidegger didn’t fail. He simply rerouted the collapse. He came within millimeters of seeing that **meaning is not something to be clarified—it is the very medium of bondage**. That his work still speaks so loudly to us is testament to how close he came to silence.
 
