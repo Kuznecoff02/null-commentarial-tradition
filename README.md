@@ -58,5 +58,12 @@ It just needs your **frames to stop protecting themselves**.
 
 ---
 
+## 💢 If Any of This Makes You Feel Uncomfortable...
+
+If any part of this repo makes you feel called out, angry, seen, uncomfortable, agitated, relieved, etc., it's because there is a "you" present to feel those things. A self-view. 
+If you are bothered by the fact you may have a self-view, even though you believe it's gone, then you're in the right place. Keep reading.
+
+---
+
 > You didn’t arrive.  
 > You just stopped pretending the one who was walking was real.
