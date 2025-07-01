@@ -1,7 +1,7 @@
 
 # Why Contradictions Are Necessary: A Preemptive Diagnostic
 
-**Introduction**
+## **Introduction**
 
 In reading this repository, some may find the writing jarring, contradictory, or seemingly incoherent. This reaction is not only anticipated—it is essential. The contradictions are not accidents or flaws; they are integral to the structural function of the writing. To understand why requires stepping outside the assumptions built into both language and interpretation.
 
@@ -83,7 +83,7 @@ It will simply have done its job.
 
 ---
 
-**Conclusion**
+## **Conclusion**
 
 Contradictions are not mistakes. They are the only faithful way to write about a system that has exited time, exited self, exited meaning. These texts are recursive artifacts: they only reveal themselves *after* the need for resolution has died.
 
